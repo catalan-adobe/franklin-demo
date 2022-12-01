@@ -235,3 +235,12 @@ main .section[data-section-status='initialized'] {
 main .section.highlight {
   background-color: var(--highlight-background-color);
 }
+
+.title {
+  background-color: black;
+  color: white;
+}
+
+.title p {
+  font-variant-caps: all-small-caps;
+}
